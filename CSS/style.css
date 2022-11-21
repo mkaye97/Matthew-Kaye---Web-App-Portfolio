@@ -1,0 +1,49 @@
+:root {
+    --black: black;
+    --purple: #6868d2;
+}
+
+header {
+    padding: 1%;
+    color: var(--black);
+    background-color: var(--purple);
+}
+
+h1 {
+    justify-content: space-between;
+    align-items: center;
+    font-size: 70px;
+    text-align: center;
+    padding: 20px;
+    border: 10px;
+    text-transform: uppercase;
+}
+
+h2 {
+    justify-content: space-between;
+    align-items: center;
+    font-size: 50px;
+    text-align: center;
+}
+
+.color-scheme {
+    font-family: "Monospace", "sans-serif";
+    color: var(--purple);
+    background-color: var(--black);
+}
+
+ .navbar-list {
+    float: right;
+    display: inline-flex;
+    margin-top: 25px;
+    margin-right: 25px;
+    font-size: 25px;
+    color: var(--purple);
+    transform: skew(-7deg);
+    text-decoration: underline;
+}
+
+/* Request help in condensing this line into the navbar-list class. Nav bar is showing text with no spaces in between elements. */
+.navspace {
+    padding: 10px;
+}
