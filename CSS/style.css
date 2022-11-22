@@ -49,18 +49,22 @@ h3 {
     transform: skew(-7deg);
     text-decoration: underline;   
 }
+
 /* To space out navigation bar items */
+
 .navspace {
     padding: 10px;
 }
 
 /* Margin + Spacing for photo(s) */
+
 body summary {
     margin: var(--bodyedge);
     margin-top: 600px;
 }
 
 /* 'About me' section text */
+
 body summary p {
     display: inline-flex;
     justify-content: center;
@@ -69,6 +73,7 @@ body summary p {
 }
 
 /* Margins for all of main element */
+
 main {
     margin: var(--bodyedge);
 }
