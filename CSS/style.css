@@ -2,7 +2,7 @@
     --black: black;
     --purple: #6868d2;
     --bodyedge: 0px 40px 0px 40px;
-    --sectionspace: 40px
+    --sectionspace: 40px;
 }
 
 header {
@@ -70,7 +70,7 @@ body summary p {
 
 /* Margins for all of main element */
 main {
-    margin: var(--bodyedge)
+    margin: var(--bodyedge);
 }
 
 /* Margin for footer element */
