@@ -22,3 +22,21 @@ WHEN I click on the images of the applications
 THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
+
+## Screenshots
+
+### Top of Page
+![Image of the Top of the Page](images/Screenshot1.png)
+
+### About Section
+![Image of About Me Section](images/Screenshot2.png)
+
+### Projects Section
+![Image of Projects Section](images/Screenshot3.png)
+
+### Contact 
+![Image of Contact Info Section](images/Screenshot4.png)
+
+## Link to Deployment
+
+https://mkaye97.github.io/Matthew-Kaye---Web-Portfolio/
